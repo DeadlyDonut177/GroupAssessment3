@@ -1,0 +1,197 @@
+html, body {
+	background: #373F51;
+	font-family: 'Lato', helvetica, arial, sans-serif;
+	font-size: 16px;
+	color: #D8DBE2;
+}
+
+p {
+	font-size: 1em;
+	padding: 35px;
+	margin: 35px
+	line-height: 1.4em;
+	margin-bottom: 20px;
+	color: #D8DBE2;
+	text-align: justify;
+}
+
+h1 {
+	border-bottom: 2px solid #A9BCD0;
+	padding: 20px
+  color: #A9BCD0 ;
+}
+
+h2 {
+  border-bottom: 2px solid #A9BCD0;
+	font-size: 20px;
+  color: #373F51;
+	padding: 20px 0 0;
+}
+
+#mainArea { width: 85%;
+max width: 800px;
+background : #58A4B0;
+margin: 25px auto;
+}
+
+}
+.clear {
+  clear: both;
+}
+
+.mainDetails {
+border: 10px solid #grey;
+text-align: center;
+}
+
+.sectionContent{
+	font-size: 1.5em
+}
+
+.sectionTitle{
+	font size: 2.0em
+}
+.image1{
+	position: absolute;
+	transform: rotate(90deg);
+	 top: 32%;
+	 right: 30%;
+   width: 40%;
+	 height: 50%;
+ }
+.mainButton1{
+	left: 10%;
+	position: absolute;
+	text-decoration: none;
+	color: #373F51;
+	font-family: "Verdana";
+	font-weight: 100;
+	font-size: 26;
+	text-align:center;
+
+	border: solid 2px #373F51;
+	border-radius: 30px;
+
+	padding: 0.4% 3.2%;
+}
+
+.mainButton1:hover {
+	background-color: #0000ff;
+	color: #fff;
+}
+
+.mainButton2{
+	right: 10%;
+	position: absolute;
+	text-decoration: none;
+	color: #373F51;
+	font-family: "Verdana";
+	font-weight: 100;
+	font-size: 26;
+	text-align: center;
+
+	border: solid 2px #373F51;
+	border-radius: 30px;
+
+	padding: 0.4% 3.2%;
+}
+
+.mainButton2:hover {
+	background-color: #0000ff;
+	color: #fff;
+}
+
+.exitButton{
+	text-decoration: none;
+	color: #fff;
+	font-family: "Verdana";
+	font-weight: 100;
+	font-size: 36;
+	text-align: center;
+
+	border: solid 2px #fff;
+	border-radius: 10px;
+	padding: 0.24% 1%;
+}
+
+.exitButton:hover {
+	background-color: #fff;
+	color: #000000;
+}
+
+.link{
+	font-size: 22;
+	color: #0000ff;
+}
+
+.link:hover {
+	color: #fff;
+}
+
+.txt {
+	font-size: 20;
+    position: absolute;
+    top: 40%;
+    left: 7%;
+}
+.squareTeamInfo {
+	position: absolute;
+  top: 32%;
+  height: 9.5%;
+  width: 20%;
+
+}
+
+.squareIndustryData {
+	position: absolute;
+  top: 43%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 24%;
+
+}
+.squareIttech {
+	position: absolute;
+  top: 66%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 24%;
+
+}
+.squareProject {
+	position: absolute;
+  top: 88.5%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 18%;
+
+}
+.squareInterview {
+	position: absolute;
+  top: 54.5%;
+  height: 9.5%;
+	  width: 20%;
+
+}
+.squareReferences {
+	position: absolute;
+  top: 77%;
+  height: 9.5%;
+	  width: 20%;
+
+}
+.squareTools {
+	position: absolute;
+  top: 88.5%;
+  height: 9.5%;
+	  width: 20%;
+
+}
+.squareGroupref {
+	position: absolute;
+  top: 88.5%;
+	right: 7.95%;
+  height: 9.5%;
+	  width: 20%;
+
+}
